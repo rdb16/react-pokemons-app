@@ -4,6 +4,7 @@ import './pokemon-card.css';
 import formatType from '../helpers/format-type';  
 import formatDate from '../helpers/format-date';
 
+
 type Props = {
     pokemon: Pokemon,
     borderColor?: string
